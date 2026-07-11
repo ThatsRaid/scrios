@@ -10,6 +10,7 @@ iOS remote control via DarkSword exploit without Jailbreak
 ### What works / what doesn't
 * Screen capture - ✅
 * Touch - ✅
+* Connection via network - ✅
 * Keyboard input - ⏳ Partial
 * Automatic orientation - ❌ Didn't try yet
 * Audio streaming - ❌ Didn't try yet
