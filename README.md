@@ -2,9 +2,9 @@
 iOS remote control via DarkSword exploit without Jailbreak
 
 ### Disclaimer
-* This is a project made in 2 days for fun
-* Going to work on this more a little bit later
-* Tested **only** on iPadOS 17.6.1 iPad 8th gen, so you tell me whether it works on your devices or not :)
+* This is a prototype I made in 2 days for fun
+* Going to work on it more a little later
+* Tested **only** on iPadOS 17.6.1 on an iPad 8th gen, so you tell me whether it works on your device or not :)
 * Use at your own risk
 
 ### What works / what doesn't
